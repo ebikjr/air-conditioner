@@ -3,7 +3,7 @@ import React from 'react'
 import { Fade } from '../Fade'
 import { AcDisplay } from './AcDisplay'
 import { EnergyLabel } from './EnergyLabel'
-import { EnergySavingLabel } from './EnergySavingLabel'
+// import { EnergySavingLabel } from './EnergySavingLabel'
 import type { AcMode } from '~/types'
 
 import * as pkg from '~/../package.json'

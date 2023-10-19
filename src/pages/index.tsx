@@ -50,7 +50,7 @@ const Home: React.FC = () => {
                 window.open('/rc', '_blank', 'width=300, height=400')
               }}
             >
-              Remote Control
+              独立遥控器
             </Button>
           </div>
         </div>

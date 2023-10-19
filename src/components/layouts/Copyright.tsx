@@ -20,17 +20,6 @@ const Copyright: React.FC = () => {
         <a href={pkg.repository.url} target="_blank" rel="noreferrer">
           Air Conditioner Simulator Game
         </a>
-        <a
-          className="inline-flex"
-          href="https://sponsors.yunyoujun.cn"
-          target="_blank" rel="noreferrer"
-          style={{ color: '#0078e7' }}
-        >
-          <div className="i-mdi-cloud text-sm mx-1" />
-        </a>
-        <a href={pkg.author.url} target="_blank" rel="noreferrer">
-          云游君 @{pkg.author.name}
-        </a>
       </div>
       <p>
         {`2023 - ${new Date().getFullYear()}`}

@@ -7,8 +7,8 @@ const socialList = [
     type: 'blog',
     color: '#6435C9',
     icon: 'i-mdi-earth',
-    label: '博客：yunyoujun.cn',
-    href: 'http://www.yunyoujun.cn',
+    label: 'Air Conditioner Simulator',
+    href: 'http://ac.seonjusan.com',
   },
 ]
 

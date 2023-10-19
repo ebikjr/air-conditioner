@@ -1,5 +1,5 @@
 import type { FC } from 'react'
-import { adsenseLink, jumpToAdsense } from '~/utils/adsense'
+//import { adsenseLink, jumpToAdsense } from '~/utils/adsense'
 import useDark from '~/hooks/useDark'
 
 /**
@@ -31,13 +31,7 @@ const ProTip: FC = () => {
     >
       <div className="i-ic:outline-emoji-objects text-xl cursor-pointer" style={{ color: '#f3a83b' }} onClick={toggleDark}></div>
       Tips: Just for Fun
-      {import.meta.env.VITE_DISABLE_ADSENSE
-        ? (
-            '清凉'
-          )
-        : (
-          <AdsenseLink text="清凉" />
-          )}
+      
       ！
     </div>
   )

@@ -20,7 +20,7 @@ export function useAcTemperature() {
       dispatchToast({
         type: 'update',
         payload: {
-          message: '已经是最大温度啦！',
+          message: 'Turn on Your Air Conditioner Simulator！',
           open: true,
           severity: 'error',
         },

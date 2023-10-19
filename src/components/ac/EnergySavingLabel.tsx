@@ -6,5 +6,11 @@ export function EnergySavingLabel() {
   const adsenseLink = 'https://www.bilibili.com/blackboard/activity-gkKsCvz81a.html?bsource=yunlefun'
 
   return (
+    <a
+      className="adsense-link"
+      href={adsenseLink}
+      target="_blank" rel="noreferrer"
+    >
+    </a>
   )
 }

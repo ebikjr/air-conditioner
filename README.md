@@ -13,11 +13,11 @@ Air Conditioner
 </p>
 
 <p align="center">
-云空调，便携小空调，为你的夏日带去清凉！
+云空调，Air Conditioner Simulator，为你的夏日带去清凉！
 </p>
 <br>
 
-> 前世今生：[云空调，便携小空调｜云游君的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
+> 前世今生：[云空调，Air Conditioner Simulator｜云游君的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
 
 - 裸机[main]：[ac.yunyoujun.cn](https://ac.yunyoujun.cn)
 - 测试机[dev]：[ac.yyj.moe](https://ac.yyj.moe)

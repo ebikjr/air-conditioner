@@ -25,7 +25,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'robots.txt'],
       manifest: {
-        name: '便携小空调',
+        name: 'Air Conditioner Simulator',
         short_name: '云空调',
         theme_color: '#000000',
         start_url: '.',
